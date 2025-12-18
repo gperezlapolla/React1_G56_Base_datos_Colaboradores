@@ -4,4 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
+  base: '/Consumo-APIs-con-React-G56-Examen-final/',
 })
