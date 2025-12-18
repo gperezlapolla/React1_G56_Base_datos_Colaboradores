@@ -2,7 +2,7 @@ import './App.css'
 import Formulario from './components/Formulario';
 import Buscador from './components/Buscador';
 import Alert from './components/Alert';
-import { BaseColaboradores } from './js/baseColaboradores'
+import { BaseColaboradores } from './js/BaseColaboradores'
 import Listado from './components/Listado';
 import { useState } from 'react';
 
